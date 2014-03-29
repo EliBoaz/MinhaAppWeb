@@ -12,6 +12,9 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1><form name="Formulario de entrada de nome" action="response.jsp">
+                <input type="text" name="nome"/>
+                <input type="submit" value="OK" />
+            </form>Hello World!</h1>
     </body>
 </html>
