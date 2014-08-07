@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>
-            <form name="Formulario de entrada" action="response.jsp">
+            <form name="Formulario de" action="response.jsp">
                 <input type="text" name="nome"/>
                 <input type="submit" value="OK" />
             </form>
